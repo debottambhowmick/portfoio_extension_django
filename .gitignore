@@ -1,0 +1,4 @@
+django_portfolio/
+__pycache__/
+*.pyc
+*.pyo
